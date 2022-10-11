@@ -1,4 +1,6 @@
-const menu = document.createElement('menu');
+import './menu.style.css';
+
+const menu = document.createElement('main');
 menu.innerHTML = (`
     menu
 `);

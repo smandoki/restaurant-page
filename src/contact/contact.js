@@ -1,4 +1,6 @@
-const contact = document.createElement('contact');
+import 'contact.style.css';
+
+const contact = document.createElement('main');
 contact.innerHTML = (`
     contact
 `);
