@@ -1,4 +1,4 @@
-import 'contact.style.css';
+import './contact.style.css';
 
 const contact = document.createElement('main');
 contact.innerHTML = (`
